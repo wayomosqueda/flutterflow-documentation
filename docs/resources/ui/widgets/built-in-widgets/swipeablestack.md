@@ -302,6 +302,7 @@ To change the offset of the back cards move to the **Properties Panel > Swipeabl
 <p></p>
 
 ---
+
 ## Control Swipeable Stack [Action]
 
 Using this action, you can swipe the widgets inside the SwipeableStack widget. For example, swiping the card left or right with the tap of a button.
