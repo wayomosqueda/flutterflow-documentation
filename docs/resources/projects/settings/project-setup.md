@@ -208,6 +208,7 @@ Follow the steps below to add this action to any widget.
 </Tabs>
 
 --- 
+
 ## Platforms
 By default, the generated project can run on Android, iOS, and the Web without any additional effort. However, to run your app on the desktop, you need to enable a platform (e.g., MacOS, Windows, Linux) from this page.
 
