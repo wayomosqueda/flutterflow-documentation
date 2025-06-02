@@ -45,6 +45,7 @@ As seen from the licensing terms of platforms like UI8, Envato, Creative Market,
 **Legal Contact:** [legal@ui8.net](mailto:legal@ui8.net)
 
 ---
+
 **Result:** ❌ Not allowed to use in creating FlutterFlow Marketplace template
 </TabItem>
 <TabItem value="2" label="Envato">
