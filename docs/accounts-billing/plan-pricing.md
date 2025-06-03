@@ -1,6 +1,6 @@
 ---
 slug: plan-pricing
-title: Plans & Pricing
+title: Plans and Pricing
 tags: []
 toc_max_heading_level: 5
 sidebar_position: 2
