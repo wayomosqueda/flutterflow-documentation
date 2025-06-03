@@ -1,5 +1,5 @@
 ---
-title: Rows, Column & Stack
+title: Rows Column and Stack
 sidebar_position: 1
 tags: [Layout Elements, Widgets]
 keywords: [Rows, Columns, Stack, Layout, Widgets]
