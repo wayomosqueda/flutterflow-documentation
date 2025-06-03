@@ -1,5 +1,5 @@
 ---
-title: Lists & Grids
+title: Lists and Grids
 tags: [Layout Elements]
 sidebar_position: 2
 ---
